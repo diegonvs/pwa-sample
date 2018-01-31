@@ -1,0 +1,17 @@
+{
+    "short_name": "Irineu",
+    "start_url": "lib/",
+    "display": "standalone",
+    "background_color": "#5f6e87",
+    "description": "tutorial",
+    "icons": [
+       {
+           "src": "images/icon48.png",
+           "sizes": "48x48",
+           "type": "image/png"
+       }
+    ],
+    "related_applications": [{
+        "platform": "web"
+    }]
+}
